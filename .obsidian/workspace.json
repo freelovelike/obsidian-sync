@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前台专用mcp.md",
+                "file": "11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前台专用mcp"
+              "title": "11"
             }
           }
         ]
@@ -186,11 +186,11 @@
   },
   "active": "d2f58a9e7ebc183d",
   "lastOpenFiles": [
+    "后专用mcp.md",
+    "欢迎.md",
+    "前台专用mcp.md",
     "未命名 1.base",
     "11.md",
-    "未命名.base",
-    "前台专用mcp.md",
-    "后专用mcp.md",
-    "欢迎.md"
+    "未命名.base"
   ]
 }
