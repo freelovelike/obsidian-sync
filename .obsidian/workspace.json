@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "11.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,11 +186,11 @@
   },
   "active": "d2f58a9e7ebc183d",
   "lastOpenFiles": [
-    "后专用mcp.md",
     "欢迎.md",
+    "后专用mcp.md",
+    "11.md",
     "前台专用mcp.md",
     "未命名 1.base",
-    "11.md",
     "未命名.base"
   ]
 }
